@@ -133,5 +133,5 @@ Repo: https://github.com/AliHaram/AIPoweredFirewall
 
 ## 📄 License
 
-This project is open-source for educational purposes. You may adapt or extend it with proper citation.
+This project is open-source for educational purposes. You may adapt or extend it with proper citation :) 
 
